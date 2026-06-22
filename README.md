@@ -1,0 +1,1 @@
+Hi guys,in this repository I have done basics of python programming and using libraries of python (pandas,malplotlip) I have performed data cleaning,data filtering,feature selection,feature extraction and data analysis by applying it on various datasets.
